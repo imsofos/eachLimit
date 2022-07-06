@@ -1,6 +1,6 @@
 if you ever worked with "async" module
 
-this function is like async.each but it doesnt wait to complete all requests
+this function is like "async.eachLimit" but it doesnt wait to complete all requests
 
 if you have bunch of request to send and set 100 for limit it will send all 100 requests
 
